@@ -33,3 +33,12 @@ I am a Software Engineering Student passionate about gaming development,. I'm co
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 </div>
+
+<div align = "center">
+ 
+### *My Github Stats*
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eirasgabriel&show_icons=true&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eirasgabriel&layout=compact&theme=tokyonight)
+
+</div>
