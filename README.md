@@ -1,21 +1,25 @@
 <div align = "center">
- <img width="640" height="800" alt="banner" src="https://github.com/user-attachments/assets/848e6f54-116d-4425-85af-3b779d1e0634" />
+ <img width="540" height="1240" alt="banner" src="https://github.com/user-attachments/assets/848e6f54-116d-4425-85af-3b779d1e0634" />
 </div>
 
 <div align = "center">
  
 ### *About Me*
 
-I am a Software Engineering Student passionate about gaming development,. I'm constantly striving to learn new technologies to make ensure that i'll be able to build a GOTY level game. 
+ > I am a Software Engineering Student passionate about gaming development and building applications sharing a little about my journey and learnings in the tech world. <br>
+ > I'm currently learning JavaScript, C and C++ and sharing some of my projects here.
+
+</div>
 
 </div>
 
 <div align = "center">
  
-### *Redes Sociais*
+### *Social Media*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eirasgabriel/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/eirasbiel)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eirasbiel/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eirasgabriel/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@eirasgabriel/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@eirasgabriel)
 
@@ -38,7 +42,7 @@ I am a Software Engineering Student passionate about gaming development,. I'm co
  
 ### *My Github Stats*
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eirasgabriel&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eirasgabriel&layout=compact&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=eirasgabriel&show_icons=true&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eirasgabriel&layout=compact&theme=tokyonight)
 
 </div>
