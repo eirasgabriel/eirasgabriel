@@ -1,3 +1,3 @@
 <div align = "center">
-  <img height = "150" src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhmejFoeHkyZG94czQzeGluZjBoMmRybHRkcnVoZDZ4NnFvMm5vZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
+ <img width="1280" height="380" alt="image" src="https://github.com/user-attachments/assets/652b484c-daf6-4801-b23c-47a7da35f555" />
 </div>
