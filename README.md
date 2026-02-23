@@ -7,7 +7,7 @@
 ### *About Me*
 
  > I am a Software Engineering Student passionate about gaming development and building applications sharing a little about my journey and learnings in the tech world. <br>
- > I'm currently learning JavaScript, C and C++ and sharing some of my projects here.
+ > I'm currently learning Java, React and sharing some of my projects here.
 
 </div>
 
