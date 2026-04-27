@@ -1,6 +1,3 @@
-<div align = "center">
- <img width="540" height="1240" alt="banner" src="https://github.com/user-attachments/assets/848e6f54-116d-4425-85af-3b779d1e0634" />
-</div>
 
 <div align = "center">
  
