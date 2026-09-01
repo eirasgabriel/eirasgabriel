@@ -4,7 +4,7 @@
 ### *About Me*
 
  > I am a Software Engineering Student passionate about gaming development and building applications sharing a little about my journey and learnings in the tech world. <br>
- > I'm currently learning Java, React and sharing some of my projects here.
+ > I'm currently learning React and Typescript and sharing a little of my projects here.
 
 </div>
 
