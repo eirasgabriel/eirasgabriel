@@ -39,9 +39,15 @@
 
 <div align = "center">
  
-### *My Github Stats*
+<div align="center">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=eirasgabriel&show_icons=true&theme=tokyonight)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eirasgabriel&layout=compact&theme=tokyonight)
+### **My GitHub Stats**
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eirasgabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eirasgabriel&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
 
 </div>
