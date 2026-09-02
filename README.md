@@ -1,53 +1,93 @@
-
-<div align = "center">
- 
-### *About Me*
-
- > I am a Software Engineering Student passionate about gaming development and building applications sharing a little about my journey and learnings in the tech world. <br>
- > I'm currently learning React and Typescript and sharing a little of my projects here.
-
-</div>
-
-</div>
-
-<div align = "center">
- 
-### *Social Media*
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eirasgabriel/)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/eirasbiel)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eirasbiel/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eirasgabriel/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@eirasgabriel/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@eirasgabriel)
-
-</div>
-
-<div align = "center">
-
-### *Contact*
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:eirasgabriel@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://)
-
-<div align = "center">
- 
-### *My Current Tech Stack*
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
-</div>
-
-<div align = "center">
- 
 <div align="center">
 
-### **My GitHub Stats**
+# Gabriel Eiras
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eirasgabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+### Software Engineering Student · Developer
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eirasgabriel&layout=compact&langs_count=8&theme=tokyonight"/>
+<p>
+  <i>Building applications, exploring game development and trying new experiences through codes every day.</i>
+</p>
 
 </div>
 
+---
+
+## About Me
+
+> I am a **Software Engineering Student** passionate about **game development** and building applications.
+>
+> I'm currently learning and sharing a little, while developing personal projects and getting to higher levels. 
+
+---
+
+<div align="center">
+
+## Social Media
+
+<a href="https://www.linkedin.com/in/eirasgabriel/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/eirasbiel">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="https://www.instagram.com/eirasbiel/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.facebook.com/eirasgabriel/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://www.youtube.com/@eirasgabriel">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## Contact
+
+<a href="mailto:eirasgabriel@outlook.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4" alt="Email"/>
+</a>
+<a href="https://">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## My Current Tech Stack
+
+### Back-End
+
+
+
+### Front-End
+
+
+
+</div>
+
+---
+
+<div align="center">
+
+## GitHub Stats
+
+<img src="https://github-stats-extended.vercel.app/api?username=eirasgabriel&rank_icon=github&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&include_all_commits=true&theme=aura" width="49%" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=eirasgabriel&layout=donut&langs_count=4&theme=aura" width="49%" alt="Top Langs" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
 
 </div>
